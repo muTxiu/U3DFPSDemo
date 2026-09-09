@@ -24,19 +24,5 @@
 - `EmemyControl.cs`：敌人 AI
 - `RecoilControl.cs`：枪械后坐力模拟
 
-## 🚀 运行方式
-1. 使用 **Unity 2022.3.62f3c1**（或 2022.3 LTS）打开本项目
-2. 打开任一场景（推荐 `Assets/Scenes/CityNew.unity` 或 `SampleScene.unity`）
-3. 点击 Play 运行
-
-## 📂 使用的第三方资源
-- **Infima Games – Low Poly Shooter Pack (Free Sample)**：角色与武器模型/动画
-- **Low Poly Weapons VOL.1**：低多边形武器模型
-- **LowPolyBuildings**：低多边形建筑
-- **AllSkyFree**：天空盒资源
-- **model**：自用模型资源
-
-> 第三方资源版权归原作者所有，本项目仅用于个人学习与技术展示。
-
 ## 📌 说明
 个人 FPS 学习项目，用于展示 Unity 游戏开发能力（角色控制、射击手感、武器系统与场景搭建）。
